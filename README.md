@@ -1,2 +1,2 @@
 # TeleTurtle
-Description
+An emergent datalogger with built in telemetry
